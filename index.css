@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  width: auto;
+}
+body {
+  font-family: Roboto;
+  position: relative;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5%;
+  height: 20px;
+}
+.menu a {
+  display: flex;
+  margin: 0 10px;
+  text-decoration: none;
+  color: #514d67;
+}
+
+.contact {
+  display: flex;
+  justify-content: end;
+  background-color: #072ac8;
+  color: #ffffff;
+  align-self: baseline;
+  padding: 5px 5px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+#home {
+  color: #072ac8;
+}
+.logo {
+}

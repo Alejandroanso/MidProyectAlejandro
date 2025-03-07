@@ -1,4 +1,14 @@
 :host {
-  --main-blue: #007bff;
+  --main-blue: #072ac8;
   --main-red: #ff0000;
+  --main-white: #ffffff;
+  --main-purple: #524e79;
+  --main-grey: #514d67;
+  --main-lightgrey: #dedede;
+  --main-turquese: #43d2ff;
+  --main-lightblue: #a2d6f9;
+  --main-dirtywhite: #d1edff;
+  --main-darkblue: #292e47;
+  --main-yellow: #ffc600;
+  --main-grey: #6b708d;
 }
